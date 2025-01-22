@@ -110,6 +110,18 @@ var APP_DATA = {
           "pitch": 0.39979211417366756,
           "rotation": 0,
           "target": "4-bedroom-2"
+        },
+        {
+          "yaw": -1.3071592458601522,
+          "pitch": 0.54933561686709,
+          "rotation": 0,
+          "target": "0-apartment-31-hallway"
+        },
+        {
+          "yaw": -1.4505823087628684,
+          "pitch": 0.13304427178114508,
+          "rotation": 0,
+          "target": "0-apartment-31-hallway"
         }
       ],
       "infoHotspots": []
@@ -334,8 +346,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.5592076516237228,
-          "pitch": 0.03174197501641096,
+          "yaw": 1.5579055822984262,
+          "pitch": 0.051326186073238134,
           "rotation": 0,
           "target": "0-apartment-31-hallway"
         },
@@ -346,7 +358,26 @@ var APP_DATA = {
           "target": "7-reception"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 1.5568244083513454,
+          "pitch": -0.08973916173738417,
+          "title": "Квартира 31",
+          "text": "Text:69 м2 (3х комнатная)"
+        },
+        {
+          "yaw": 2.8822153507677992,
+          "pitch": 0.13615150429530765,
+          "title": "дверь с кодовым замком",
+          "text": "Text"
+        },
+        {
+          "yaw": 0.19691392925701479,
+          "pitch": 0.045392099683230214,
+          "title": "общая зона",
+          "text": "Text"
+        }
+      ]
     },
     {
       "id": "7-reception",
@@ -376,19 +407,32 @@ var APP_DATA = {
       ],
       "faceSize": 4096,
       "initialViewParameters": {
-        "yaw": 0.07921109682128424,
-        "pitch": 0.013117983227099117,
-        "fov": 1.3474042771833745
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [
         {
-          "yaw": 1.482333625616488,
-          "pitch": 0.25245658228276824,
+          "yaw": 1.4874029190664722,
+          "pitch": 0.2973334524037057,
           "rotation": 0,
           "target": "6-coridor"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -2.4628508724588283,
+          "pitch": 0.060968015142233156,
+          "title": "Общий холодильник",
+          "text": "Text"
+        },
+        {
+          "yaw": 2.5528892959552074,
+          "pitch": -0.08150584470027766,
+          "title": "общий инвентарь",
+          "text": "за барной стоикой&nbsp;"
+        }
+      ]
     }
   ],
   "name": "Project Title",
