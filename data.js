@@ -52,6 +52,12 @@ var APP_DATA = {
           "target": "5-bathroom"
         },
         {
+          "yaw": -2.954788902546712,
+          "pitch": 0.69080401582492,
+          "rotation": 0,
+          "target": "6-coridor"
+        },
+        {
           "yaw": 1.1489274151321887,
           "pitch": 0.06577965236521877,
           "rotation": 0,
