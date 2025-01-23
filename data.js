@@ -346,8 +346,8 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.5579055822984262,
-          "pitch": 0.051326186073238134,
+          "yaw": 1.5592076516237228,
+          "pitch": 0.03174197501641096,
           "rotation": 0,
           "target": "0-apartment-31-hallway"
         },
@@ -358,14 +358,7 @@ var APP_DATA = {
           "target": "7-reception"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": 1.5568244083513454,
-          "pitch": -0.08973916173738417,
-          "title": "Квартира 31",
-          "text": "Text:69 м2 (3х комнатная)"
-        }
-      ]
+      "infoHotspots": []
     },
     {
       "id": "7-reception",
@@ -407,20 +400,7 @@ var APP_DATA = {
           "target": "6-coridor"
         }
       ],
-      "infoHotspots": [
-        {
-          "yaw": -2.4628508724588283,
-          "pitch": 0.060968015142233156,
-          "title": "Общий холодильник",
-          "text": "Text"
-        },
-        {
-          "yaw": 2.5528892959552074,
-          "pitch": -0.08150584470027766,
-          "title": "общий инвентарь",
-          "text": "за барной стоикой&nbsp;"
-        }
-      ]
+      "infoHotspots": []
     }
   ],
   "name": "Project Title",
